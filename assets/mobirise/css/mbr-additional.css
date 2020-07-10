@@ -1035,10 +1035,11 @@ section.lazy-placeholder:after {
 }
 .cid-s47dI8b53e {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-s47dI8b53e .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-s47dI8b53e .video-block {
@@ -1091,19 +1092,6 @@ section.lazy-placeholder:after {
 }
 .cid-qyY86DMi8M .card-title {
   text-align: center;
-}
-.cid-s4kSSu2wJc {
-  background: #232323;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-s4kSSu2wJc .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-s4kSSu2wJc .video-block {
-    width: 100% !important;
-  }
 }
 .cid-s47fHQn4Qp {
   padding-top: 60px;
